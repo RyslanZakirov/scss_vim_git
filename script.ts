@@ -12,4 +12,7 @@ document.addEventListener("DOMContentLoaded", e => {
     //     clearInterval(timerId)
     // })
 
+    console.log("SomeData");
+    
+
 })
