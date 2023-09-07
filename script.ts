@@ -8,11 +8,18 @@ document.addEventListener("DOMContentLoaded", e => {
     //     console.log("Hello");
     // }, 500)
 
-    // document.addEventListener("dblclick", e => {
+    
     //     clearInterval(timerId)
     // })
 
+<<<<<<< HEAD
     console.log("SomeData");
     
+=======
+    
+   
+    let refOnFunction : () => void = () => {console.log("Hello world");
+    }
+>>>>>>> 	I do not know what i am doing.
 
 })
