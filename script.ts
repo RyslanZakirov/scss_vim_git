@@ -20,4 +20,9 @@ document.addEventListener("DOMContentLoaded", e => {
         }
     }
     
+    navigator.geolocation.getCurrentPosition((data) => {
+        console.log(data);
+    })
+
+    
 })
