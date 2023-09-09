@@ -3,19 +3,8 @@ interface IPerson {
 }
 
 
-
-class Soma{
-
-    constructor(){
-        console.log("Soma")
-    }
-
-}
-
-
-
 document.addEventListener("DOMContentLoaded", e => {
-    
+
     function Fun() : void {
         
         let i : number = 20;
